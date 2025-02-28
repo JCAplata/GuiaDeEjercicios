@@ -1,3 +1,4 @@
 # pilates
 # descripcion
 # beneficios 
+# instrucciones
